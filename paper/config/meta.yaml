@@ -1,0 +1,120 @@
+# PUBLICATION META INFO
+# —————————————————————
+
+title:                  "Navigating Crisis"
+subtitle:               "The Learn-and-Do Kit to strengthen resilience through creativity within higher education institutions"
+authors:                "Ann-Kathrin Watolla, Freia Kuper, Bronwen Deacon, Lena Marie Henkes & Anna Aust"
+year:                   2026
+date_publication:       March 2026
+# date_submission:
+# date_last_updated:
+
+keywords:               "resilience, creativity, higher education, educational technology, digital teaching, canvas"
+abstract:               "The Learn-and-Do Kit supports higher education institutions in strengthening resilience through creativity. It not only addresses how to cope during crises, but broadens the perspective to include questions of how to anticipate crises as well as adapt afterwards. Based on insights from the OrA and ORC research projects, it enables higher education leaders, teaching and support staff to reflect on their institution’s specific vulnerabilities and strengths."
+cite_as:                "Watolla, A. K., Kuper, F., Deacon, B., Henkes, L., & Aust, A. (2026).  *Navigating Crisis. The Learn-and-Do Kit to Strengthen Resilience through Creativity within Higher Education Institutions*. DOI:10.5281/zenodo.19003965"
+
+# pdf_url:                "https://doi.org/10.5281/zenodo.19003965"
+doi:                    "10.5281/zenodo.19003965"
+# isbn:                   978-989-746-128-6
+
+contact_email:          ann-kathrin.watolla@hiig.de
+
+short_url:              "https://graphite.page/hiig-navigating-crisis"
+social_image_url:       "https://graphite.page/hiig-navigating-crisis/assets/images/social.png"
+lang:                   en
+
+
+# PUBLICATION STYLE
+# —————————————————————
+styles:                 theme/styles/orc.css 
+background_url:         assets/images/header.jpg
+
+
+# DISCLAIMER
+# —————————————————————
+data_usage: ""
+disclaimer: ""
+terms_of_use:
+licence:                "This text is published under the <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener noreferrer'>Creative Commons Attribution 4.0</a> license. Unrestricted use, distribution and reproduction in any medium is permitted, provided the original work is properly cited."
+
+
+# Author info is shown in footer bar and on the right, if no logo is provided.
+author_info:            Learn-and-Do Kit for resilient and creative higher education institutions
+logo_url:
+
+
+# SETTINGS
+# —————————————————————
+
+author_info_sticky:     true
+no_journal:             false
+matomo_tracking:        true
+load_confetti:          true
+translation_nav:        false
+matomo_url:             "https://piwik.wunderjewel.de/"
+matomo_siteId:          "4"
+
+social_share_platforms:
+  - linkedin
+  - bluesky
+  - mastodon
+
+
+# PUBLISHER INFO
+# thanks for mentioning graphite
+# —————————————————————
+
+brand:                  graphite – Enhanced publications for a digital environment
+brand_url:              https://www.impactdistillery.com/graphite
+brand_logo:             theme/images/graphite.svg
+
+# Infos in expandable header
+imprint:                "This Learn-and-Do Kit was created as part of the research project Organisational Resilience and Creativity: Exploring the Future of Educational Technology. ORC is a cooperation between the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) and the [Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA)](https://www.fernuni-hagen.de/english/research/clusters/catalpa/) at the FernUniversität in Hagen.\n\n
+
+                        This publication was created with Graphite, an open-source framework for digital publishing."
+
+further_publications:
+ - label:  Organizing digital change at the university
+   url: https://graphite.page/fieldguide-edtech
+ - label: Rethinking scholarly publishing
+   url: https://graphite.page/doa-blueprint/
+ - label:  Making science go viral
+   url: https://graphite.page/short-video-guide/
+
+further_links:
+ - label: ORC project page
+   url: https://www.hiig.de/en/project/organisationale-resilienz-und-kreativitaet/
+ - label: Graphite project website
+   url: https://www.impactdistillery.com/graphite
+
+
+# ADDITIONAL LANGUAGES
+# Add language navigation in settings and links below
+# —————————————————————
+
+# further_languages:
+#   - label: DE
+#     url: https://graphite.page/doa-blaupause/
+#   - label:  EN
+#     url: https://graphite.page/doa-blueprint/
+#     current: true
+
+# TABS
+# —————————————————————
+
+:---------------------------------------------------:
+tabs:
+  - title: "How to"
+    slug: index
+    include_abstract: true
+    md_container: article
+  - title: "Learning"
+    slug: learning
+    md_container: article
+  - title: "Doing"
+    slug: doing
+    md_container: article
+  - title: "About"
+    slug: about
+    md_container: section
+

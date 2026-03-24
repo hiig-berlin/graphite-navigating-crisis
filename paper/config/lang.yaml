@@ -1,0 +1,65 @@
+# Graphite Paper Language Configuration
+# =====================================
+# This file contains all user-facing text strings used in the Graphite Paper framework.
+# Copy this file to your publication's config/lang.yaml and customize the values
+# to translate your publication to another language.
+#
+# All strings have English defaults built into the framework, so you only need to
+# include the keys you want to customize.
+
+# Navigation and Headers
+# ----------------------
+header_articles: "More Graphite Publications"
+header_more: "More Information"
+powered_by: "Runs on"
+toc: "Contents"
+toc_long: "Table of Contents"
+
+# Abstract and Metadata
+# ---------------------
+abstract: ""
+keywords: "Keywords"
+cite_as: "Recommended Citation"
+licence: "License"
+disclaimer: ""
+terms_of_use: ""
+questions: "Questions or suggestions?"
+write_mail: "Write an email to"
+cited_source: "Cited Source"
+authors: "Authors"
+
+# Dates
+# -----
+date_publication: "Published"
+date_submission: ""
+date_last_updated: ""
+
+# Actions
+# -------
+download: "PDF"
+download_csv: ""
+download_data: "Download Data"
+download_file: ""
+read_on: "Explore Learn-And-Do Kit"
+visit_website: "Visit Website"
+
+# Share
+# -----
+share: "Share"
+
+# Quote Component
+# ---------------
+quote_open: "&ldquo;"
+quote_close: "&rdquo;"
+quote_translated: "Translated quote"
+quote_original: "Original version"
+
+# Infobox Component
+# -----------------
+expand_infobox: "See all"
+collapse_infobox: "Collapse"
+
+# Default Imprint Text
+# ---------------------
+# This is shown in the navigation when no custom imprint is provided in meta.yaml
+default_imprint: ""
