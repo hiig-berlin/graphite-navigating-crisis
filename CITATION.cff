@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this publication source, please cite it."
+title: "Navigating Crisis: The Learn-and-Do Kit to strengthen resilience through creativity within higher education institutions"
+type: generic
+url: "https://graphite.page/hiig-navigating-crisis"
+repository-code: "https://github.com/hiig-berlin/graphite-navigating-crisis"
+license: "CC-BY-4.0"
+authors:
+  - name: "Ann-Kathrin Watolla"
+    affiliation: "Alexander von Humboldt Institute for Internet and Society (HIIG)"
+  - name: "Freia Kuper"
+    affiliation: "Alexander von Humboldt Institute for Internet and Society (HIIG)"
+  - name: "Bronwen Deacon"
+    affiliation: "Alexander von Humboldt Institute for Internet and Society (HIIG)"
+  - name: "Lena Marie Henkes"
+    affiliation: "Alexander von Humboldt Institute for Internet and Society (HIIG)"
+  - name: "Anna Aust"
+    affiliation: "Alexander von Humboldt Institute for Internet and Society (HIIG)"
+# doi: "10.5281/zenodo.XXXXXXX"
