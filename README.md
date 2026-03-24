@@ -35,4 +35,5 @@ python paper/manage.py runserver
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See `LICENSE`.
 
 ## Citation / DOI
-Once a DOI is minted (e.g., via Zenodo + GitHub Releases), please use the repository’s “Cite this repository” information on GitHub or the DOI record.
+
+[![DOI](https://zenodo.org/badge/1190756555.svg)](https://doi.org/10.5281/zenodo.19208028)
